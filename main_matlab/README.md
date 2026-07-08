@@ -17,7 +17,7 @@ controle do robo manipulador do TCC.
 Abra o MATLAB neste diretorio ou execute:
 
 ```matlab
-TCC_run
+main_run
 ```
 
 Para gerar todos os cenarios de comparacao:

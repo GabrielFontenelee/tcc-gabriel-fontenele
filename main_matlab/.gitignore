@@ -1,0 +1,15 @@
+# MATLAB and Simulink generated files
+*.asv
+*.autosave
+*.slxc
+slprj/
+codegen/
+rtwbuild/
+
+# Generated simulation outputs
+Graficos/
+out.mat
+*.log
+
+# Local agent/session metadata
+.agents/
